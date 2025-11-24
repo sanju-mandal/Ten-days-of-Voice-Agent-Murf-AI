@@ -1,0 +1,11 @@
+{
+    "drinkType": "latte",
+    "size": "extra large",
+    "milk": "none",
+    "extras": [
+        "whipped cream"
+    ],
+    "name": "Sanju",
+    "timestamp": "2025-11-23T20:33:26.001958",
+    "session_id": "session_20251123_203326"
+}
